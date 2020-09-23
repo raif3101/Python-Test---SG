@@ -8,5 +8,5 @@
  - Give status by email
 
 # Development environment
-Python = 3.7
-Os covered : Linux
+- Python = 3.7
+- Os covered : Linux
